@@ -16,3 +16,6 @@ _[x]
 2. ***Работает?***\
 Ответ: Нет\
 _[ ]
+
+
+[ССылка](https://github.com/Belka49087/lab1/edit/main/README.md)
