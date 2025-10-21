@@ -18,4 +18,4 @@ _[x]
 _[ ]
 
 
-[ССылка](https://github.com/Belka49087/lab1/edit/main/README.md)
+[Ссылка](https://github.com/Belka49087/lab1/edit/main/README.md)
