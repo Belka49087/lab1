@@ -106,4 +106,4 @@ print(f"It's not a number!")
 
 
 # Documentation language:
-[Russian](https://github.com/Belka49087/lab1/blob/main/README-ru.md) | [English](https://github.com/Belka49087/lab1/edit/main/README.md)
+[Russian](https://github.com/Belka49087/lab1/blob/main/README-ru.md) | [English](https://github.com/Belka49087/lab1/blob/main/README.md)
