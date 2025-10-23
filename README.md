@@ -74,7 +74,7 @@ To output text in Python, the function ``print("Hello, World!")`` is used.
 
 **2. Code:**
 
-```
+```python
 a = int(input("Введите любую цифру:"))
 if a <=9:
     b = a*4+a**2-a*4/a
