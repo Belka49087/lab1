@@ -58,7 +58,7 @@ Code block:
 
 ```python
 def main():
-    print("The Great Explosive God DYNAMITE!!!")
+    print("Great Explosion Murder God Dynamight!!!")
     return True
 ```
 
