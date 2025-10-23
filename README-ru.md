@@ -106,4 +106,4 @@ else:
 
 
 # Язык документации:
-[Русский](https://github.com/Belka49087/lab1/edit/main/README-ru.md) | [English](-)
+[Русский](https://github.com/Belka49087/lab1/edit/main/README-ru.md) | [English](https://github.com/Belka49087/lab1/edit/main/README.md)
