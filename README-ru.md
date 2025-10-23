@@ -84,4 +84,4 @@ def main():
 
 9. ВЫБОР ЯЗЫКА
 **Выберите язык:**  
-[**Русский**]() | [**English**]()
+[**Русский**]() | [**English**](https://github.com/Belka49087/lab1/tree/master)
