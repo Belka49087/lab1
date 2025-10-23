@@ -55,6 +55,14 @@ This repository was created to demonstrate the capabilities of Markdown and work
    * The subtask is not completed
 
 
+**4. Checkboxes:**
+- [x] Naruto defeated Kaguya?
+- [ ] Is Sasuke stronger than a dinosaur?
+- [ ] Is Orachimaru a man?
+- [ ] Is Ishiki strong?
+- [x] Is Toneri in the top 3?
+
+
 # Links:
 
 **1. Direct links:**\
