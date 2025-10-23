@@ -65,7 +65,7 @@ def main():
 ![The Logo Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png )
 *Example image 1*
 
-![Example of a scheme](https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Diagram +Example)
+![Example of a scheme](https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Diagram+Example)
 *Example image 2*
 
 
@@ -84,4 +84,4 @@ def main():
 
 9. LANGUAGE SELECTION
 **Select a language:**  
-[**Russian**]() | [**English**]()
+[**Russian**]() | [**English**](https://github.com/Belka49087/lab1/tree/master)
