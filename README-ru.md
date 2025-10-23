@@ -93,8 +93,10 @@ else:
 
 
 # Изображения:
-* https://avatars.mds.yandex.net/i?id=a85ebbc9e1d542ff81d7980912e04c1b_l-9151370-images-thumbs&n=13 - Логотип Discord
-* https://avatars.mds.yandex.net/i?id=122b665d7c17a5078f03e8c51dad7c87_l-5016868-images-thumbs&n=13 - Логотип MAX
+*Discord*
+![The Discord logo](https://avatars.mds.yandex.net/i?id=a85ebbc9e1d542ff81d7980912e04c1b_l-9151370-images-thumbs&n=13)
+![The MAX logo](https://avatars.mds.yandex.net/i?id=122b665d7c17a5078f03e8c51dad7c87_l-5016868-images-thumbs&n=13)
+*MAX*
 
 
 # Таблицы:
