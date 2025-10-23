@@ -84,4 +84,4 @@ def main():
 
 9. LANGUAGE SELECTION
 **Select a language:**  
-[**Russian**]() | [**English**](https://github.com/Belka49087/lab1/tree/master)
+[**Russian**](https://github.com/Belka49087/lab1/blob/master/README-ru.md) | [**English**](https://github.com/Belka49087/lab1/blob/master/README.md)
