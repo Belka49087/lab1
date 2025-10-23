@@ -62,16 +62,15 @@ def main():
 
 
 7. ИЗОБРАЖЕНИЯ
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png
-
-https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Diagram+Example
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png 
 
 
 8. ТАБЛИЦЫ
 | Столбец 1 | Столбец 2 | Столбец 3 |
 |-----------|-----------|-----------|
-| Данные 1  | Данные 2  | Данные 3  |
-| Данные 4  | Данные 5  | Данные 6  |
+| Данные 1 | Данные 2 | Данные 3 |
+| Данные 4 | Данные 5 | Данные 6 |
+
 
 | Функция | Синтаксис | Пример |
 |---------|-----------|--------|
