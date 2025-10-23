@@ -2,7 +2,7 @@
 
 
 # About the project:
-This repository was created to demonstrate the capabilities of Markdown and work with the file ***README.md *** Various text formatting elements are presented here in accordance with the requirements of the laboratory work.
+This repository was created to demonstrate the capabilities of Markdown and work with the file ***README.md*** Various text formatting elements are presented here in accordance with the requirements of the laboratory work.
 
 
 # Text formatting:
@@ -62,14 +62,14 @@ https://github.com - direct link to GitHub
 
 
 **2. Text links:**
-* [Official GitHub website](https://github.com /)
-* [Markdown Documentation](https://www.markdownguide.org /)
-* [Link to this project](https://github.com/Belka49087/lab1/edit/main/README-ru.md )
+* [Official GitHub website](https://github.com/)
+* [Markdown Documentation](https://www.markdownguide.org/)
+* [Link to this project](https://github.com/Belka49087/lab1/edit/main/README-ru.md)
 
 
 # Inserting the code:
 
-**1. Embedded code:**
+**1. Embedded code:**\
 To output text in Python, the function ``print("Hello, World!")`` is used.
 
 **2. Code:**
