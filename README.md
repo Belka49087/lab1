@@ -32,8 +32,6 @@ Unnumbered list
 The numbered list
 1. The first point
 2. Second paragraph
-1. Sub-paragraph A
-2. Sub-paragraph B
 3. The third point
 
 Checkboxes
@@ -62,18 +60,16 @@ def main():
 
 
 7. IMAGES
-![The Logo Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png )
-*Example image 1*
-
-![Example of a scheme](https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Diagram+Example)
-*Example image 2*
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png 
 
 
 8. TABLES
+
 | Column 1 | Column 2 | Column 3 |
 |-----------|-----------|-----------|
 | Data 1 | Data 2 | Data 3 |
 | Data 4 | Data 5 | Data 6 |
+
 
 | Function | Syntax | Example |
 |---------|-----------|--------|
