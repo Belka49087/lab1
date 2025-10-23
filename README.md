@@ -1,21 +1,5 @@
-# Hello World!
-```phyton
-x = int(input())
-x**2+x*4/2
-print(x)
-```
-1. ***Вопрос: Работает?***\
-Ответ: Да\
--[X]
+# *Laboratory work №5*
 
 
-|:-:|-:|\
-|Столбец 1|Столбец 2|
-
-
-2. ***Работает?***\
-Ответ: Нет\
--[]
-
-
-[Ссылка](https://github.com/Belka49087/lab1/edit/main/README.md)
+# About the project:
+This repository was created to demonstrate the capabilities of Markdown and work with the file. README.md Various elements of text formatting according to the requirements of laboratory work are presented here.
