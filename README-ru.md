@@ -62,11 +62,9 @@ def main():
 
 
 7. ИЗОБРАЖЕНИЯ
-![Логотип Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
-*Пример изображения 1*
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png
 
-![Пример схемы](https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Diagram+Example)
-*Пример изображения 2*
+https://via.placeholder.com/400x200/4A90E2/FFFFFF?text=Diagram+Example
 
 
 8. ТАБЛИЦЫ
