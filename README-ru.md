@@ -74,7 +74,7 @@ https://github.com - прямая ссылка на GitHub
 
 **2. Код:**
 
-```phyton
+```python
 a = int(input("Введите любую цифру:"))
 if a <=9:
     b = a*4+a**2-a*4/a
