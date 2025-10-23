@@ -74,15 +74,14 @@ To output text in Python, the function ``print("Hello, World!")`` is used.
 
 **2. Code:**
 
-``phyton
-a = int(input("Enter any digit:"))
+```
+a = int(input("Введите любую цифру:"))
 if a <=9:
-b = a*4+a**2-a*4/a
-print(f"This is a digit, a = {b}")
+    b = a*4+a**2-a*4/a
+    print(f"Это цифра, a = {b}")
 else:
-print(f"It's not a number!")
-``
-
+  print(f"Это не цифра!")
+```
 
 # Images:
 * https://avatars.mds.yandex.net/i?id=a85ebbc9e1d542ff81d7980912e04c1b_l-9151370-images-thumbs&n=13 - The Discord logo
