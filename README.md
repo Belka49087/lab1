@@ -1,27 +1,29 @@
-LABORATORY WORK No. 5
+# LABORATORY WORK №5
 
-Markdown documentation
+# About the project:
+This repository was created to demonstrate the capabilities of Markdown and work with the file ***README.md *** Various text formatting elements are presented here in accordance with the requirements of the laboratory work.
 
+#1. TEXT FORMATTING
 
+**Bold text** - `**text**` or `__text__`
 
-TEXT FORMATTING
-Bold text - `**text**` or `__text__`
+*Italics* - `*text*` or `_text_`
 
-Italics - `*text*` or `_text_`
-
-Bold italics - `***text***`
+***Bold italics*** - `***text***`
 
 ~~Crossed out~~ - `~~text~~`
 
 <u>Underlined</u> - `<u>text</u>`
 
 
-3. QUOTES
+#2. QUOTES
+
 > I'll handle it. Heroes don't cry. (Izuku Midoriya)
 >> No, the heroes are crying. (Shoto Todoroki)
 
 
-4. LISTS
+# 3. LISTS
+
 Unnumbered list
 - Element 1
 - Element 2
@@ -31,7 +33,7 @@ Unnumbered list
 
 The numbered list
 1. The first point
-2. Second paragraph
+2. The second point
 3. The third point
 
 Checkboxes
@@ -39,7 +41,8 @@ Checkboxes
 - [x] Did Bakugoat show a cinema?
 - [x] All for one allowed
 
-5. LINKS
+#4. LINKS
+
 **Direct Link:**  
 https://github.com
 
@@ -47,7 +50,8 @@ https://github.com
 [GitHub](https://github.com)
 
 
-6. THE CODE
+# 5. THE CODE
+
 Embedded code: print("Hello World")
 
 Code block:
@@ -59,17 +63,17 @@ def main():
 ```
 
 
-7. IMAGES
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png 
+#6. IMAGES
+
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png) 
 
 
-8. TABLES
-
+#7. TABLES
+   
 | Column 1 | Column 2 | Column 3 |
 |-----------|-----------|-----------|
 | Data 1 | Data 2 | Data 3 |
 | Data 4 | Data 5 | Data 6 |
-
 
 | Function | Syntax | Example |
 |---------|-----------|--------|
@@ -78,6 +82,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208p
 | Code | ` `code` ` | `variable` |
 
 
-9. LANGUAGE SELECTION
+#8. LANGUAGE SELECTION
 **Select a language:**  
-[**Russian**](https://github.com/Belka49087/lab1/blob/master/README-ru.md) | [**English**](https://github.com/Belka49087/lab1/blob/master/README.md)
+[**Russian**](https://github.com/Belka49087/lab1/blob/master/README-ru.md ) | [**English**](https://github.com/Belka49087/lab1/blob/master/README.md )
