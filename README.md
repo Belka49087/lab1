@@ -3,7 +3,7 @@
 # About the project:
 This repository was created to demonstrate the capabilities of Markdown and work with the file ***README.md *** Various text formatting elements are presented here in accordance with the requirements of the laboratory work.
 
-#1. TEXT FORMATTING
+# 1. TEXT FORMATTING
 
 **Bold text** - `**text**` or `__text__`
 
@@ -16,7 +16,7 @@ This repository was created to demonstrate the capabilities of Markdown and work
 <u>Underlined</u> - `<u>text</u>`
 
 
-#2. QUOTES
+# 2. QUOTES
 
 > I'll handle it. Heroes don't cry. (Izuku Midoriya)
 >> No, the heroes are crying. (Shoto Todoroki)
