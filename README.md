@@ -41,7 +41,7 @@ Checkboxes
 - [x] Did Bakugoat show a cinema?
 - [x] All for one allowed
 
-#4. LINKS
+# 4. LINKS
 
 **Direct Link:**  
 https://github.com
@@ -63,12 +63,12 @@ def main():
 ```
 
 
-#6. IMAGES
+# 6. IMAGES
 
 ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png) 
 
 
-#7. TABLES
+# 7. TABLES
    
 | Column 1 | Column 2 | Column 3 |
 |-----------|-----------|-----------|
@@ -82,6 +82,6 @@ def main():
 | Code | ` `code` ` | `variable` |
 
 
-#8. LANGUAGE SELECTION
+# 8. LANGUAGE SELECTION
 **Select a language:**  
 [**Russian**](https://github.com/Belka49087/lab1/blob/master/README-ru.md ) | [**English**](https://github.com/Belka49087/lab1/blob/master/README.md )
